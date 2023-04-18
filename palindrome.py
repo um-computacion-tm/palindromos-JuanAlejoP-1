@@ -1,3 +1,2 @@
-def palindrome():
-    
-    return
+def palindrome(word):
+    return True
